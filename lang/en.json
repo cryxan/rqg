@@ -1,0 +1,22 @@
+{
+  "RQG.AbilityStr": "Strength",
+  "RQG.AbilityCon": "Constitution",
+  "RQG.AbilityDex": "Dexterity",
+  "RQG.AbilityInt": "Intelligence",
+  "RQG.AbilityWis": "Wisdom",
+  "RQG.AbilityCha": "Charisma",
+
+  "RQG.AbilityStrAbbr": "str",
+  "RQG.AbilityConAbbr": "con",
+  "RQG.AbilityDexAbbr": "dex",
+  "RQG.AbilityIntAbbr": "int",
+  "RQG.AbilityWisAbbr": "wis",
+  "RQG.AbilityChaAbbr": "cha",
+
+  "RQG.EffectCreate": "Create Effect",
+  "RQG.EffectToggle": "Toggle Effect",
+  "RQG.EffectEdit": "Edit Effect",
+  "RQG.EffectDelete": "Delete Effect",
+
+  "RQG.Add": "Add"
+}

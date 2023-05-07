@@ -1,0 +1,34 @@
+{
+  "id": "rqg",
+  "title": "Runequest Glorantha",
+  "description": "Runequest Glorantha (another unofficial one) system for FoundryVTT",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": 10,
+    "verified": "10.287",
+    "maximum": 10
+  },
+  "authors": [{
+    "name": "John Sinclair"
+  }],
+  "esmodules": ["module/rqg.mjs"],
+  "styles": ["css/rqg.css"],
+  "scripts": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
+  "url": "https://github.com/cryxan/rqg",
+  "manifest": "https://github.com/cryxan/rqg/blob/main/system.json",
+  "download": "https://github.com/cryxan/rqg/archive/refs/heads/main.zip",
+  "license": "LICENSE.txt",
+  "changelog": "CHANGELOG.md"
+}
